@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const CharacterForm = () => {
+export const About = () => {
   return (
     <div></div>
   )
